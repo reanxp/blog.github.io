@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "The Route to Performance"
+date:   1990-10-12 10:10:10 +0800
+categories: Howard S. Marks Memo
+---
+
 Addendum to Third Quarter Client Letter 
 From: Howard S. Marks 
 Re: The Route to Performance 
